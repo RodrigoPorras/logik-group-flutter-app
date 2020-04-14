@@ -19,7 +19,7 @@ A new logik Group app version made with Flutter
 - Fluttertoast  (An android and iOS Toast Library for Flutter)
 And others...
 
-![](Part 1.gif)
+![](https://github.com/RodrigoPorras/logik-group-flutter-app/blob/master/Part%201.gif)
 
 Using showDialog for create/delete documents
 
